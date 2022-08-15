@@ -4,26 +4,19 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2022/08/15/test/"/>
-      <url>/2022/08/15/test/</url>
+      <title>First Blog!</title>
+      <link href="/2022/08/15/20220815/"/>
+      <url>/2022/08/15/20220815/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Edited</title>
-      <link href="/2022/08/15/New-Blog/"/>
-      <url>/2022/08/15/New-Blog/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>Hello</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Hello </tag>
+            
+        </tags>
       
     </entry>
     
